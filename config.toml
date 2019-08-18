@@ -1,9 +1,10 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://tahoefreedivers.com"
+baseURL = "https://tahoe-freedivers.com"
 languageCode = "en-US"
 title = "Tahoe Freedivers"
 publishDir = "docs"
+googleAnalytics = "UA-119298907-3"
 
 # Metadata
 [params]
